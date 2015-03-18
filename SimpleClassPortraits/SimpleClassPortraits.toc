@@ -1,0 +1,5 @@
+## Interface: 60100
+## Title: Simple Class Portraits
+## Notes: Shows class portraits of all player characters
+## Author: ArthurPvP
+SimpleClassPortraits.lua
